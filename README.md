@@ -127,7 +127,9 @@ Estes itens não são obrigatórios, mas demonstram maturidade técnica e podem 
 
 1. Crie um repositório **público** no GitHub
 2. Faça o deploy da aplicação (sugestão: [Railway](https://railway.app))
-3. Envie para o recrutador:
+3. Preencha o formulário de entrega: **[DirectAds - Envio de Teste Técnico](https://forms.gle/wpyga7rZMxbxZmbR8)**
+   - Email
+   - LinkedIn
    - Link do repositório GitHub
    - Link da aplicação em produção (deploy)
 4. Certifique-se de que:
